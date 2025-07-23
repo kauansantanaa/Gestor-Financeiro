@@ -1,6 +1,6 @@
 # Gestor Financeiro - Aplicação Full-Stack com .NET e React
 
-Este projeto foi desenvolvido como parte do Trabalho Prático da disciplina de Desenvolvimento de Software para Web, com o objetivo de criar um Web Service em C# para persistir e manipular dados de uma Single Page Application (SPA) em React.
+Este projeto é referente ao Trabalho Dirigido 3 da disciplina de Desenvolvimento de Software para Web, com o objetivo de criar um Web Service em C# para persistir e manipular dados de uma Single Page Application (SPA) em React.
 
 ## 📝 Descrição do Projeto
 
