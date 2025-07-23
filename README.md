@@ -8,7 +8,7 @@ A aplicação é um sistema de gestão financeira que permite ao usuário contro
 
 O projeto é composto por:
 * **Front-end:** Uma Single Page Application (SPA) desenvolvida com React e TypeScript.
-* **Back-end:** Uma API Web construída com C# e .NET, seguindo os princípios SOLID. [cite: 51, 62, 83]
+* **Back-end:** Uma API Web construída com C# e .NET, seguindo os princípios SOLID.
 * **Persistência de Dados:** Utilização de um banco de dados em memória do .NET para gerenciar os dados durante a execução da aplicação. 
 * **Conteinerização:** Um `Dockerfile` que compila e executa a aplicação completa (front-end e back-end) em um contêiner Docker.
 
