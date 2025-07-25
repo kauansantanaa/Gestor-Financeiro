@@ -16,7 +16,6 @@ O projeto é composto por:
 
 * **CRUD completo** para as entidades de Categorias, Contas e Transações.
 * API RESTful para comunicação entre o front-end e o back-end.
-* Interface reativa e responsiva com um tema escuro.
 * Gerenciamento de estado centralizado no front-end para garantir consistência dos dados entre as páginas.
 
 ## 🚀 Tecnologias e Arquitetura
@@ -45,7 +44,7 @@ O projeto é composto por:
     ```
 5.  Abra o seu navegador e acesse `http://localhost:8080`. A aplicação completa estará rodando.
 
-## 📸 Evidências de Funcionamento (Prints de Tela)
+## 📸 Evidências de Funcionamento
 
 Conforme solicitado, seguem abaixo as evidências da aplicação em funcionamento. 
 
