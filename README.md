@@ -49,7 +49,7 @@ O projeto é composto por:
 Conforme solicitado, seguem abaixo as evidências da aplicação em funcionamento. 
 
 **Página de Categorias**
-![Página de Transações](./screenshots/app-categorias.png)
+![Página de Categorias](./screenshots/app-categorias.png)
 
 **Gerenciamento de Contas**
 ![Página de Contas](./screenshots/app-contas.png)
